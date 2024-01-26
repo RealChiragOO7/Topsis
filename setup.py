@@ -29,7 +29,7 @@ setup(
   ],
   entry_points={
     'console_scripts': [
-      'topsis-thapar=topsis_chirag_102103278.main:main',
+      'topsis_chirag_102103278=topsis.__main__:main',
     ],
   },
 )
