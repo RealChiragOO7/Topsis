@@ -9,7 +9,7 @@ setup(
   long_description=README,
   long_description_content_type='text/markdown',
   name = 'topsis_chirag_102103278',       
-  version = '1.0.3',     
+  version = '1.0.4',     
   license='MIT',      
   description = 'A Python package to find TOPSIS for MCDM (Multi-Criteria Decision Analysis Method)',
   author = 'Chirag Gupta',
